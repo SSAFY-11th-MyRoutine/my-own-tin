@@ -1,19 +1,5 @@
-# my-routine-PJT
-SSAFY 11st DJ04 team06 'My Routine' PJT
+# My Own Tin - 나의 운동 루틴
+SSAFY 11st DJ04 team06 'My Own Tin' PJT
 
-### Name Candidate for Web Site
-- My Routine
-- Fit-Formation (fitForm)
-- Fit Mingle
-
-### github Link (private)
-- https://github.com/SSAFY-11th-MyRoutine
-
-### Notion Link (private)
-- https://www.notion.so/ssafy-study-daejeon-class4/SSAFY-1-6-01628c4ca9c242ba8ac0db812bce1790?pvs=4
-
-### 기능 명세서 Link (public)
-- https://docs.google.com/spreadsheets/d/11EZJF5lgvw5E4KorAu52hr5IM0QIYOIoJGyrvyBCuJ8/edit?pli=1#gid=0
-
-### mock-up Figma Link (private)
-- https://www.figma.com/design/Af1jQDZu1fanZfpbCsiGWR/SSAFY_11st_PJT?node-id=0-1&t=XqK16YuLUJ1QunL0-0
+팀원 : 우혜지, 홍선주
+---
